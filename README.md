@@ -17,7 +17,9 @@ One star = continuously updating multiple methods
 
 # Running Script
 $ pkg install git & pkg install python2
+
 $ git clone https://github.com/YUDAMODS/DdosAttack-YudaMods
+
 $ python2 modz.py
 
 # Social

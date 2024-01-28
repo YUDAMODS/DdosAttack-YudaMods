@@ -15,3 +15,5 @@ One star = continuously updating multiple methods
 - [x] Anti Tracking
 - [x] More Views
 
+
+[![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Tonton%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)

@@ -22,6 +22,9 @@ $ git clone https://github.com/YUDAMODS/DdosAttack-YudaMods
 
 $ python2 modz.py
 
+[![Check Host]([https://img.shields.io/badge/CHECK%20HOST-orange?style=for-the-badge&logo=checkhost))](https://check-host.net/)
+
+
 # Social
 [![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Subscribe%20-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
 

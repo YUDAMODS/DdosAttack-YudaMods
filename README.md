@@ -18,4 +18,4 @@ One star = continuously updating multiple methods
 
 [![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Tonton%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
 
-[![MORE SCRIPT](https://img.shields.io/badge/Hubungi%20Saya%20di%20WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://github.com/YUDAMODS?tab=repositories)
+[![MORE SCRIPT](https://img.shields.io/badge/More%20Script-green?style=for-the-badge&logo=github)](https://github.com/YUDAMODS?tab=repositories)

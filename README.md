@@ -17,3 +17,5 @@ One star = continuously updating multiple methods
 
 
 [![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Tonton%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
+
+[![Hubungi Saya di WhatsApp](https://img.shields.io/badge/Hubungi%20Saya%20di%20WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6283842204546)

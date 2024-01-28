@@ -16,6 +16,6 @@ One star = continuously updating multiple methods
 - [x] More Views
 
 
-[![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Tonton%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
+[![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Subscribe%20-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
 
 [![MORE SCRIPT](https://img.shields.io/badge/More%20Script-green?style=for-the-badge&logo=github)](https://github.com/YUDAMODS?tab=repositories)

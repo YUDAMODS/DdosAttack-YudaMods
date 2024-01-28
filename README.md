@@ -15,6 +15,10 @@ One star = continuously updating multiple methods
 - [x] Anti Tracking
 - [x] More Views
 
+# Running Script
+$ pkg install git & pkg install python2
+$ git clone https://github.com/YUDAMODS/DdosAttack-YudaMods
+$ python2 modz.py
 
 # Social
 [![SUBSCRIBE YOUTUBE](https://img.shields.io/badge/Subscribe%20-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YUDAMODS)
